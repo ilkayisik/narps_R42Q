@@ -1,6 +1,6 @@
 # narps_R42Q
 
-Analysis scripts that is used to analyse the data for Neuroimaging Analysis Replication and Prediction Study (NARPS)
+Analysis scripts used to analyse the data for Neuroimaging Analysis Replication and Prediction Study (NARPS)
  
 - fmriflows (https://github.com/miykael/fmriflows) is used for preprocessing
 
