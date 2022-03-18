@@ -1,7 +1,16 @@
 # narps_R42Q
 
-Analysis scripts used to analyse the data for Neuroimaging Analysis Replication and Prediction Study (NARPS)
- 
-- fmriflows (https://github.com/miykael/fmriflows) is used for preprocessing
+This repository contains analysis scripts used to preprocess and model the data for Neuroimaging Analysis Replication and Prediction Study (NARPS, https://www.narps.info) in the form of Jupyter Notebooks.
 
-- nistats (https://github.com/nistats/nistats) is used for statistical analysis
+
+- For preprocessing we used __fmriflows__ (https://github.com/miykael/fmriflows).
+
+- For modeling and statistical analysis we used __nistats__ (https://github.com/nistats/nistats)
+
+## Authors
+> _ordered alphabetically_
+- [Peer Herholz](https://github.com/PeerHerholz)
+- [Ilkay Isik](https://github.com/ilkayisik)
+- [Michael Notter](https://github.com/miykael)
+
+Get in touch with us if you have any questions!
